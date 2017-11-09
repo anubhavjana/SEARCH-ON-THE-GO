@@ -1,0 +1,50 @@
+
+@keyframes blinker
+ {  
+  40%
+   { 
+  	opacity: 0;
+   }
+}
+
+
+h1.abc
+{
+	text-align:center;
+	color:#4E342E;	
+	font-family: 'Helvetica', sans-serif;		
+	text-shadow: 3px 2px #CDDC39;
+
+}
+body
+ {
+	height: 100%;
+	margin: 0;
+	padding: 0;	
+	background-image: url("http://www.dragonartz.net/wp-content/uploads/2013/12/Vector-Blurred-Colorful-Backgrounds-by-DragonArtz_Prev.jpg");
+	background-size: cover;
+	
+    
+}
+
+input[type=text]:focus
+ {
+    background-color:#E1BEE7;
+
+}
+input[type="text"]
+{
+	margin:15px;   
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+    width: 7%;
+
+)
+
+
